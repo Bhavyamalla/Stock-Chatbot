@@ -26,4 +26,4 @@ it sector
 infosys  
 funds
 
-# Chatbot UI (chatbot-preview.png)
+Chatbot UI (chatbot-preview.png)
