@@ -1,4 +1,4 @@
-Smart Stock Chatbot
+# Smart Stock Chatbot
 This is a simple web-based chatbot that provides stock information using the Alpha Vantage API.
 
 Features
@@ -25,3 +25,5 @@ stocks
 it sector  
 infosys  
 funds
+
+# Chatbot UI (chatbot-preview.png)
