@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Smart Stock Chatbot</title>
+
+  <!-- Bootstrap -->
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- App Styles -->
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <div class="container chat-container">
+    <h5 class="text-center mb-3">📈 Smart Stock Chatbot</h5>
+    <div class="chat-box" id="chatBox"></div>
+    <div class="chat-input input-group">
+      <input
+        type="text"
+        class="form-control"
+        id="userInput"
+        placeholder="Type a company, sector, or fund..."
+        autocomplete="off"
+      >
+      <div class="input-group-append">
+        <button class="btn btn-primary" onclick="processInput()">Send</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Data -->
+  <script src="js/data.js"></script>
+
+  <!-- API Service -->
+  <script src="js/api.js"></script>
+
+  <!-- Chatbot Logic -->
+  <script src="js/chatbot.js"></script>
+
+</body>
+</html>
