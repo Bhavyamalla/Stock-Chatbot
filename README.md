@@ -11,7 +11,6 @@ A lightweight, browser-based stock chatbot that provides live BSE stock quotes, 
 -  Live data via [Alpha Vantage API](https://www.alphavantage.co/)
 -  Responsive design with Bootstrap 4
 
----
 
 ##  Project Structure
 
@@ -27,7 +26,6 @@ smart-stock-chatbot/
 └── README.md
 ```
 
----
 
 ##  Setup & Usage
 
@@ -46,7 +44,6 @@ smart-stock-chatbot/
 3. **Open in browser**  
    Just open `index.html` directly — no build step or server needed.
 
----
 
 ##  Supported Commands
 
@@ -60,7 +57,6 @@ smart-stock-chatbot/
 | `it sector` / `banking sector` ... | Companies in that sector |
 | `hdfc equity fund` / `sbi bluechip fund` ... | Fund NAV & returns |
 
----
 
 ##  Tech Stack
 
@@ -69,7 +65,6 @@ smart-stock-chatbot/
 - [Bootstrap 4](https://getbootstrap.com/docs/4.5/)
 - [Alpha Vantage API](https://www.alphavantage.co/)
 
----
 
 ##  Notes
 
