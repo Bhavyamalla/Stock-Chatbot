@@ -2,7 +2,6 @@
 
 A lightweight, browser-based stock chatbot that provides live BSE stock quotes, sector breakdowns, and mutual fund data — no backend required.
 
----
 
 ##  Features
 
